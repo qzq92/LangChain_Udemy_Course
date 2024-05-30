@@ -1,1 +1,1 @@
-# Generative_LLM_Udemy
+# LangChain Udemy Course
